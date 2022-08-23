@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">سجل المكالمات</string>
+    <string name="name">الإسم</string>
+    <string name="phoneNum">رقم الهاتف</string>
+    <string-array name="calls">
+        <item>واردة</item>
+        <item>صادرة</item>
+        <item>لم يتم الرد عليها</item>
+
+    </string-array>
+    <string name="record">السجل</string>
+
+
+</resources>
